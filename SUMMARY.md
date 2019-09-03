@@ -1,7 +1,6 @@
 # Table of contents
 
 * [aboy](README.md)
-* [排序](pai-xu.md)
 
 ## C语言
 
@@ -10,12 +9,17 @@
 
 ## 数据结构与算法
 
+* [排序](shu-ju-jie-gou-yu-suan-fa/pai-xu.md)
 * [树](shu-ju-jie-gou-yu-suan-fa/untitled-1.md)
-* [Untitled](shu-ju-jie-gou-yu-suan-fa/untitled.md)
+* [答案](shu-ju-jie-gou-yu-suan-fa/untitled.md)
+* [前](shu-ju-jie-gou-yu-suan-fa/qian.md)
+* [Untitled](shu-ju-jie-gou-yu-suan-fa/untitled-2.md)
 
 ## English
 
 * [每日一句](english/mei-ri-yi-ju.md)
+* [Untitled](english/untitled.md)
+* [Untitled](english/untitled-1.md)
 
 ## MATH
 
