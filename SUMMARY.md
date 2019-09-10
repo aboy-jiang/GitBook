@@ -6,20 +6,20 @@
 
 * [程序设计](c-yu-yan/cheng-xu-she-ji.md)
 * [算法设计](c-yu-yan/suan-fa-she-ji.md)
+* [期末](c-yu-yan/qi-mo.md)
+* [真题](c-yu-yan/zhen-ti.md)
 
 ## 数据结构与算法
 
 * [排序](shu-ju-jie-gou-yu-suan-fa/pai-xu.md)
 * [树](shu-ju-jie-gou-yu-suan-fa/untitled-1.md)
-* [答案](shu-ju-jie-gou-yu-suan-fa/untitled.md)
+* [真题](shu-ju-jie-gou-yu-suan-fa/untitled.md)
 * [前](shu-ju-jie-gou-yu-suan-fa/qian.md)
 * [Untitled](shu-ju-jie-gou-yu-suan-fa/untitled-2.md)
 
 ## English
 
 * [每日一句](english/mei-ri-yi-ju.md)
-* [Untitled](english/untitled.md)
-* [Untitled](english/untitled-1.md)
 
 ## MATH
 
