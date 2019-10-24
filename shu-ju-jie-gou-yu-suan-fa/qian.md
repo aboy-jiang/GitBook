@@ -25,7 +25,7 @@ $$2^10=1024$$
     <tr>
       <td style="text-align:left">
         <p>
-          <img src="../.gitbook/assets/image (23).png" alt/>
+          <img src="../.gitbook/assets/image (38).png" alt/>
         </p>
         <p>
           <br />

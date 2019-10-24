@@ -36,7 +36,7 @@ $$h_{min}=\lfloor{log_2n}\rfloor+1 = \lceil{log_2(n+1 )}\rceil$$
 
 ## 二叉排序树
 
-![&#x4E8C;&#x53C9;&#x6392;&#x5E8F;&#x6811;](../.gitbook/assets/image%20%283%29.png)
+![&#x4E8C;&#x53C9;&#x6392;&#x5E8F;&#x6811;](../.gitbook/assets/image%20%286%29.png)
 
 ### 概念
 

@@ -8,6 +8,7 @@
 * [算法设计](c-yu-yan/suan-fa-she-ji.md)
 * [期末](c-yu-yan/qi-mo.md)
 * [真题](c-yu-yan/zhen-ti.md)
+* [C程序设计导引](c-yu-yan/c-cheng-xu-she-ji-dao-yin.md)
 
 ## 数据结构与算法
 
