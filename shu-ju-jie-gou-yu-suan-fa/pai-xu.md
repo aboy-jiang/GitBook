@@ -135,7 +135,9 @@ void binary_insert_sort(int a[], int n)
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## 选择排序
+</table>
+
+## 选择排序
 
 **思路：**
 

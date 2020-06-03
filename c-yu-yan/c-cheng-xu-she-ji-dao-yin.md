@@ -15,7 +15,7 @@
 
 ### 3.3 名次预测正确表达式
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 ```c
 /*
@@ -65,7 +65,7 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 ### 4.4 行数统计
 
@@ -129,7 +129,7 @@ int main(int argc, char *argv[]) {
 
 ### 4.12 乒乓球赛
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 ```c
 #include <stdio.h>
@@ -200,7 +200,7 @@ int main(int argc, char *argv[])
 
 ### 5.5 π的近似值
 
-![](../.gitbook/assets/image%20%2875%29.png)
+![](../.gitbook/assets/image%20%2874%29.png)
 
 ### 5.6 判断整数的奇偶
 
