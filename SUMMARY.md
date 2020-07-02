@@ -15,6 +15,8 @@
 
 ## English
 
+* [百词斩](english/bai-ci-zhan.md)
+
 ## MATH
 
 * [Markdown与MathJax](math/untitled.md)
